@@ -141,11 +141,11 @@ int main() {
 			ui();
 		}
 		else if (input == "github") {
-			toClipboard("https://github.com/AlienTheBetrayer/TerrariaColorMessageGenerator");
+			toClipboard("https://github.com/AlienTheBetrayer/Spectrum");
 			ui();
 		}
 		else if (input == "github_") {
-			system("start https://github.com/AlienTheBetrayer/TerrariaColorMessageGenerator");
+			system("start https://github.com/AlienTheBetrayer/Spectrum");
 			ui();
 		}
 		else if(input == "colors"){
